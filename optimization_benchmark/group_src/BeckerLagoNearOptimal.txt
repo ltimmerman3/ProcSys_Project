@@ -1,0 +1,3 @@
+Solver	Optimum
+RandomSearchOptimizer	0.00045913682277321253
+HillClimbingOptimizer	5.1015202530356945e-05
